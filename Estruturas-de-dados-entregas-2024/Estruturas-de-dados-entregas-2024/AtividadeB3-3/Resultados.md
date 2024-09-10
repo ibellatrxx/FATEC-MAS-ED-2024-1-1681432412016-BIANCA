@@ -64,4 +64,4 @@ O pior caso sempre será quando o elemento não é encontrado no array.
 
 ## 4º Requisito: Demonstre todos os resultado (Big O) de modo gráfico
 
-![Logo do GitHub](https://github.com/ibellatrxx/Fatec-AMS-ED2024-1-1681432412016-Bianca-Soares/tree/main/Estruturas-de-dados-entregas-2024/Estruturas-de-dados-entregas-2024/AtividadeB3-3/Gr%C3%A1fico)
+![Logo do GitHub](https://github.com/ibellatrxx/Fatec-AMS-ED2024-1-1681432412016-Bianca-Soares/blob/main/Estruturas-de-dados-entregas-2024/Estruturas-de-dados-entregas-2024/AtividadeB3-3/Gr%C3%A1fico/gr%C3%A1fico.png)
