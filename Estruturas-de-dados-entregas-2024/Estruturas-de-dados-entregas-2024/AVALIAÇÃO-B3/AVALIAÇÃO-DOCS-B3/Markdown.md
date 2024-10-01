@@ -25,6 +25,20 @@ Este software visa implementar uma solução que verifique a primalidade de núm
 ---
 
 ## Solução - Iteração
+```c
+//Verificar se um número é primo
+int is_prime(int num) {
+    if (num < 2) {
+        return 0;
+    }
+    for (int i = 2; i <= sqrt(num); i++) {
+        if (num % i == 0) {
+            return 0; 
+        }
+    }
+    return 1; 
+}
+```
 
 ### Verificação Inicial:
 - Números menores que 2 não são primos. Se `num < 2`, a função retorna 0.
