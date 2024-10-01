@@ -1,6 +1,9 @@
 # PROJETO DE VERIFICAÇÃO CRIPTOGRÁFICA - BENCHMARK
 
-### Bianca - Bruno M. - Giovanni C. - Ruan
+- Bianca Soares
+- Bruno Leonardo
+- Giovanni Cícero 
+- Ruan Defavari
 
 ---
 
